@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 9286493ceb8a6ec4295354c8d5b11e56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2449228545728375393
+    second: bobblerSpriteSheet_0
+  - first:
+      213: -2847984664442408009
+    second: bobblerSpriteSheet_1
+  - first:
+      213: 3010669290326931783
+    second: bobblerSpriteSheet_2
+  - first:
+      213: -3818285472369259858
+    second: bobblerSpriteSheet_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493d12b4cb08c920800000000000000
+      internalID: 3010669290326931783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4560d799b20bc0800000000000000
+      internalID: -3818285472369259858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf634810e97c94ca2f792bb7eaf0b2
+      internalID: 2449228545728375393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f99e2bf667ecf428d1edca46ac9555
+      internalID: -2847984664442408009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94829d96b435e4682cc1a9111e16d8
+      internalID: 59312931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e71399ec21be4aa811631cd5136d2
+      internalID: -1103000567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995aa4cd5bf74df46bec9c02aecc7b97
+      internalID: 239947300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5994358489dd24193468a3feef7082
+      internalID: -229863981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a836f9c09278d8b4db07d87c0ecd1526
+      internalID: 737882890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e91a8563d3cc4e954adb02fafaf45
+      internalID: -154504357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f692d3f5df96a45b05e700f4a8dd06
+      internalID: 1977866612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d58104717b1054788d7068bff92171
+      internalID: -1665455386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80d8c7e0922b4346a85ad8f314efa27
+      internalID: -553052593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1063
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4564aa507e4a0468b046e62376fb69
+      internalID: 586648260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bbf2e8ed0a32438dd90dc8251ed38
+      internalID: -2036421785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368edcf79237ff4c9e893e33823bcc4
+      internalID: 1675846264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51cc9c25756e9e4a8f40bf78af33b70
+      internalID: -802786223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e210134e01b6449891c412b362f59b
+      internalID: -956606958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c78691bc34ed4eaaa1a4ae95103c1
+      internalID: 233361719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca4ecf5181c954d9629caae7adf534
+      internalID: -1358319921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5fe2ecec1ecee489538333a651a914
+      internalID: -975507841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be822b772703749b4e3b1f69e4ba32
+      internalID: -1923869669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e247fe330da9a40886d623042c66db
+      internalID: -2009510407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468d10d0a92d9442b904083edcb16ea
+      internalID: -2097470439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10517738fd0b1a49904d73e1d7702d3
+      internalID: -727797035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d44fff5e0edb4c88481ae8af8fde7
+      internalID: -76074065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe259a11447934388fdfcb2499036f
+      internalID: -1390646138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b8e1d530369b44b85cd3cea5eee3d
+      internalID: -852223439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1045
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904d5e4294be61e4da3a163ed9bb4914
+      internalID: -1469461840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a818c1778473e429e000d57b4c2691
+      internalID: -272420620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cffa70b256a4bd4db36d25e57e8d496
+      internalID: 613914142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d43084558a10429df6b5408fac3a2
+      internalID: 1918693708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c09e5b3b29f9394091f3ca61def82a4
+      internalID: -1912185843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738f97bbe064e9f44b2da523f4996eaf
+      internalID: 1568430590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509acd51893a0494f812711a4c9aa07d
+      internalID: -2061931578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd7810380cd3d45a595c1578168a02
+      internalID: -554102267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eaf601388d9a54a9f32fa6062713dd
+      internalID: 1994286920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94e39e8b53f9b45b35192b885f3476
+      internalID: 1993383884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c59fb400f09c546a376674fc0f8588
+      internalID: 1689662729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed260d1035954df47b48b0166eaaae22
+      internalID: -342047992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf202c86ece0c43a1da4f79c8a0b7b
+      internalID: -327124597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bbddcae292e8c478a6cd8ea004914a
+      internalID: -1841671757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afa598b20b87a40a13b31a4d34492d
+      internalID: -242416667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89713b5349a970c4baf3f3515057e635
+      internalID: -1201027026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1009
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182a0574c7cc1943b80628049e4fcd1
+      internalID: -738923929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1009
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a3a0f89c4b50c499c9dc675cf7f755
+      internalID: -1722056566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1009
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3137f64b830d54d8f9b284b483326b
+      internalID: 1616182972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bobblerSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1009
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cebf86f97c5ac64cbbde431f1a878b7
+      internalID: -99323445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6caa90f378115814f8322c33677241fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bobblerSpriteSheet_0: 2449228545728375393
+      bobblerSpriteSheet_1: -2847984664442408009
+      bobblerSpriteSheet_10: 1977866612
+      bobblerSpriteSheet_11: -1665455386
+      bobblerSpriteSheet_12: -553052593
+      bobblerSpriteSheet_13: 586648260
+      bobblerSpriteSheet_14: -2036421785
+      bobblerSpriteSheet_15: 1675846264
+      bobblerSpriteSheet_16: -802786223
+      bobblerSpriteSheet_17: -956606958
+      bobblerSpriteSheet_18: 233361719
+      bobblerSpriteSheet_19: -1358319921
+      bobblerSpriteSheet_2: 3010669290326931783
+      bobblerSpriteSheet_20: -975507841
+      bobblerSpriteSheet_21: -1923869669
+      bobblerSpriteSheet_22: -2009510407
+      bobblerSpriteSheet_23: -2097470439
+      bobblerSpriteSheet_24: -727797035
+      bobblerSpriteSheet_25: -76074065
+      bobblerSpriteSheet_26: -1390646138
+      bobblerSpriteSheet_27: -852223439
+      bobblerSpriteSheet_28: -1469461840
+      bobblerSpriteSheet_29: -272420620
+      bobblerSpriteSheet_3: -3818285472369259858
+      bobblerSpriteSheet_30: 613914142
+      bobblerSpriteSheet_31: 1918693708
+      bobblerSpriteSheet_32: -1912185843
+      bobblerSpriteSheet_33: 1568430590
+      bobblerSpriteSheet_34: -2061931578
+      bobblerSpriteSheet_35: -554102267
+      bobblerSpriteSheet_36: 1994286920
+      bobblerSpriteSheet_37: 1993383884
+      bobblerSpriteSheet_38: 1689662729
+      bobblerSpriteSheet_39: -342047992
+      bobblerSpriteSheet_4: 59312931
+      bobblerSpriteSheet_40: -327124597
+      bobblerSpriteSheet_41: -1841671757
+      bobblerSpriteSheet_42: -242416667
+      bobblerSpriteSheet_43: -1201027026
+      bobblerSpriteSheet_44: -738923929
+      bobblerSpriteSheet_45: -1722056566
+      bobblerSpriteSheet_46: 1616182972
+      bobblerSpriteSheet_47: -99323445
+      bobblerSpriteSheet_5: -1103000567
+      bobblerSpriteSheet_6: 239947300
+      bobblerSpriteSheet_7: -229863981
+      bobblerSpriteSheet_8: 737882890
+      bobblerSpriteSheet_9: -154504357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
