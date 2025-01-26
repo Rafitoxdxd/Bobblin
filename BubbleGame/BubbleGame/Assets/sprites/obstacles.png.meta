@@ -105,7 +105,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -423,6 +423,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: obstacles_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f7476efdfbbc4e901373cda2779c8
+      internalID: -1397845321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -440,6 +462,7 @@ TextureImporter:
       obstacles_0: 4092514144187842027
       obstacles_1: -675650125194207516
       obstacles_10: -1974018022727384677
+      obstacles_11: -1397845321
       obstacles_2: -9187242211370392559
       obstacles_3: 8248780198173348339
       obstacles_4: 6555408642238913036

@@ -1,11 +1,14 @@
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class scr_fanController : MonoBehaviour
 {
     // Update is called once per frame
     public GameObject bubble;
+    public scr_bubbleController BubbleController;
     public ParticleSystem particles;
+    public Animator animCont;
+
+    private float deathTimer = 0;
     void FixedUpdate()
     {
         Vector3 mousePos = Input.mousePosition;
@@ -35,11 +38,15 @@ public class scr_fanController : MonoBehaviour
             rigidBody.AddForce((-transform.position + bubble.transform.position) * force, ForceMode2D.Force);
             if (!particles.isPlaying)
             { particles.Play(); }
+
+            animCont.SetBool("Fanning", true);
         }
         else
         {
             if (particles.isPlaying)
             { particles.Stop(); }
+
+            animCont.SetBool("Fanning", false);
         }
 
         if (Input.GetMouseButtonDown(1) && dist > 0.2f && dist < 2.5)
@@ -49,5 +56,21 @@ public class scr_fanController : MonoBehaviour
 
         /*if (rigidBody.)
         { Debug.Log("OVERSPEED!!!!") }*/
+    }
+
+    void Update()
+    {
+        if (BubbleController.isDead)
+        {
+            if (deathTimer >= 1)
+            {
+                BubbleController.isDead = false;
+                bubble.gameObject.SetActive(true);
+                deathTimer = 0;
+                bubble.transform.position = BubbleController.checkpoint;
+            }
+            else
+            { deathTimer += Time.deltaTime; }
+        }
     }
 }
